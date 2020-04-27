@@ -95,27 +95,27 @@ projects:
     assignments:
       - title: Movie Search Engine
         link: "http://167.71.139.222"
-        tagline: "(University Project) A search engine that enables searching for movies by keywords or quotes. Won the Best Project Award for the Text Technologies for Data Science course 2019-20. *(React, Flask, Scrapy, MongoDB)*"
+        tagline: "(University Project) A search engine that enables searching for movies by keywords or quotes. Won the Best Project Award for the Text Technologies for Data Science course 2019-20.<br>*(React, Flask, Scrapy, MongoDB)*"
 
-      - title: Reinforcement Learning Trading Agent
+      - title: Stock Market Prediction Using Deep Reinforcement Learning
         link: "https://i.imgur.com/6scAt1j.png"
-        tagline: "(University Project) Built a deep reinforcement learning agent model that can trade stocks profitably. Nominated for the IBM Prize for Best Machine Learning Practical project 2019-20. *(Python, Tensorflow)*"
+        tagline: "(University Project) Built a deep reinforcement learning agent model that can trade stocks profitably. Nominated for the IBM Prize for Best Machine Learning Practical project 2019-20.<br>*(Python, Tensorflow)*"
 
       - title: Workofo
         link: "https://www.workofo.com/"
-        tagline: "Writing efficient algorithms for employee shift scheduling optimisation. Data modelling, architecture and design. *(Java, Spring, Google Cloud)*"
+        tagline: "Writing efficient algorithms for employee shift scheduling optimisation. Data modelling, architecture and design.<br>*(Java, Spring, Google Cloud)*"
 
       - title: Startline
         link: "https://www.startline.lt/"
-        tagline: "Designed a complete software solution for managing car tuning services for a client's company. The solution includes: an Android app with multi-level authentication, appointment scheduling system with job specifics, reporting/accounting tools, appointment reminders via SMS to clients, SMS marketing tools, holiday management. Additionally, I designed a [self-booking page](http://register.startline.lt/) (Lithuanian) to display real availability and allow clients to self-register for an appointment. *(Java, Android, [MERN](https://www.educative.io/edpresso/what-is-mern-stack) stack for back-end and self-booking page)*"
+        tagline: "Designed a complete software solution for managing car tuning services for a client's company. The solution includes: an Android app with multi-level authentication, appointment scheduling system with job specifics, reporting/accounting tools, appointment reminders via SMS to clients, SMS marketing tools, holiday management. Additionally, I designed a [self-booking page](http://register.startline.lt/) (Lithuanian) to display real availability and allow clients to self-register for an appointment.<br>*(Java, Android, [**MERN**](https://www.educative.io/edpresso/what-is-mern-stack) stack for back-end and self-booking page)*"
 
       - title: Asvela
         link: "https://shop.asvela.com/"
-        tagline: "Web scraping and data modelling for car part specifications used for automated generation of product listing descriptions and car compatibility tables. *(Java, Jaunt, SQL)*"
+        tagline: "Web scraping and data modelling for car part specifications used for automated generation of product listing descriptions and car compatibility tables.<br>*(Java, Jaunt, SQL)*"
 
       - title: Save the Bunnies
         link: "save-the-bunnies"
-        tagline: "Infinite 2D Platformer Shooter game with progression system: new weapons, skills and wardrobe elements can be unlocked by saving bunnies. *(Unity, C#)*"
+        tagline: "Infinite 2D Platformer Shooter game with progression system: new weapons, skills and wardrobe elements can be unlocked by saving bunnies.<br>*(Unity, C#)*"
 
 # publications:
 #     title: Publications
@@ -143,23 +143,41 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Javascript & Node.js
+        level: 98%
+
+      - name: Java/C#
+        level: 98%
+
+      - name: MongoDB
+        level: 98%
+
       - name: Python & Flask
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
       - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: SQL
+        level: 95%
 
-      - name: Sketch & Photoshop
+      - name: React.js
+        level: 90%
+
+      - name: C++
+        level: 90%
+
+      - name: .NET
         level: 60%
+
+      - name: PHP
+        level: 60%
+
+      - name: React Native
+        level: 50%
+
+      - name: Flutter
+        level: 50%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
