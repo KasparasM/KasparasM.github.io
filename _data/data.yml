@@ -54,26 +54,16 @@ career-profile:
 education:
     - degree: (MInf) Informatics
       university: University of Edinburgh
-      time: 2014 - 2020
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      time: 2017 - 2020 (changed from BEng)
+
+    - degree: (BEng) Software Engineering
+      university: University of Edinburgh
+      time: 2014 - 2017
+
     - degree: High School Diploma
       university: Kaunas University of Technology Gymnasium
       time: 2010 - 2014
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Lead Software Engineer
       time: 2015 - Present
