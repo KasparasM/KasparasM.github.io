@@ -16,7 +16,7 @@ sidebar:
     # phone: 012 345 6789
     # website: blog.webjeda.com #do not add http://
     linkedin: kasparas-masiukas
-    github: Kasparas42180
+    github: KasparasMasiukas
     gitlab:
     bitbucket:
     # twitter: '@webjeda'
@@ -42,7 +42,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Brief Profile
     summary: |
       Programmed my first game at the age of 10. Been passionate about games and AI ever since.
       Started competitive programming at high school in Lithuania and have won several medals in prestigious national competitions.
@@ -76,50 +76,46 @@ experiences:
       time: 2015 - Present
       company: Clouder, London (Remote)
       details: |
-        Creating a vaping marketplace, 1-hour delivery in London and subscription service (built with [**MEAN**](https://www.ibm.com/cloud/learn/mean-stack-explained) stack).
+        Creating a vaping marketplace, 1-hour delivery in London and subscription [service](https://clouder.co.uk/) (built with [**MEAN**](https://www.ibm.com/cloud/learn/mean-stack-explained) stack).
         I am solely responsible for the development, security and availability of the back-end of our platform. Further, I manage an outsourced team of front-end developers to implement
         new projects according to business strategy and my written technical specification. Finally, I communicate with customers, providing tech support and managing system integration processes.
-        Technologies:
+        Technologies used:
           - MEAN stack
           - Redis
-          - AWS
+          - Amazon Web Services (AWS)
     - role: Freelance Software Engineer
       time: 2015 - Present
       company: Self-employed, Edinburgh
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Undertaking various development projects (listed under **Projects** below) for clients and independently. Maintaining and updating complete projects.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      The following list of projects include paid self-employment work, as well as some noteworthy university or individual hobby projects (sorted from most to least recent):
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Movie Search Engine
+        link: "http://167.71.139.222"
+        tagline: "(University Project) A search engine that enables searching for movies by keywords or quotes. Won the Best Project Award for the Text Technologies for Data Science course 2019-20. *(React, Flask, Scrapy, MongoDB)*"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Reinforcement Learning Trading Agent
+        link: "https://i.imgur.com/6scAt1j.png"
+        tagline: "(University Project) Built a deep reinforcement learning agent model that can trade stocks profitably. Nominated for the IBM Prize for Best Machine Learning Practical project 2019-20. *(Python, Tensorflow)*"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Workofo
+        link: "https://www.workofo.com/"
+        tagline: "Writing efficient algorithms for employee shift scheduling optimisation. Data modelling, architecture and design. *(Java, Spring, Google Cloud)*"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Startline
+        link: "https://www.startline.lt/"
+        tagline: "Designed a complete software solution for managing car tuning services for a client's company. The solution includes: an Android app with multi-level authentication, appointment scheduling system with job specifics, reporting/accounting tools, appointment reminders via SMS to clients, SMS marketing tools, holiday management. Additionally, I designed a [self-booking page](http://register.startline.lt/) (Lithuanian) to display real availability and allow clients to self-register for an appointment. *(Java, Android, [MERN](https://www.educative.io/edpresso/what-is-mern-stack) stack for back-end and self-booking page)*"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Asvela
+        link: "https://shop.asvela.com/"
+        tagline: "Web scraping and data modelling for car part specifications used for automated generation of product listing descriptions and car compatibility tables. *(Java, Jaunt, SQL)*"
+
+      - title: Save the Bunnies
+        link: "save-the-bunnies"
+        tagline: "Infinite 2D Platformer Shooter game with progression system: new weapons, skills and wardrobe elements can be unlocked by saving bunnies. *(Unity, C#)*"
 
 # publications:
 #     title: Publications
@@ -147,7 +143,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & Flask
         level: 98%
 
       - name: Javascript & jQuery
