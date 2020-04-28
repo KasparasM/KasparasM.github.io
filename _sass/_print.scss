@@ -36,7 +36,10 @@
     }
 
     .job-title {
-      font-weight: 900;
+      font-weight: 900 !important;
+    }
+    .job-title:before {
+      content: "• "
     }
 
     .company {
