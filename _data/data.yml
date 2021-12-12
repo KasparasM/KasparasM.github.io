@@ -66,21 +66,20 @@ education:
 
 experiences:
     - role: Lead Software Engineer
-      time: 2015 - Present
+      time: 2015 - 2020
       company: Clouder, London (Remote)
       details: |
-        Creating a vaping marketplace, 1-hour delivery in London and subscription [service](https://clouder.co.uk/) (built with [**MEAN**](https://www.ibm.com/cloud/learn/mean-stack-explained) stack).
-        I am solely responsible for the development, security and availability of the back-end of our platform. Further, I manage an outsourced team of front-end developers to implement
-        new projects according to business strategy and my written technical specification. Finally, I communicate with customers, providing tech support and managing system integration processes.
-        Technologies used:
-          - MEAN stack
-          - Redis
-          - Amazon Web Services (AWS)
-    - role: Freelance Software Engineer
-      time: 2015 - Present
-      company: Self-employed, Edinburgh
+        Created a vaping marketplace, 1-hour delivery in London and subscription service (built with [**MEAN**](https://www.ibm.com/cloud/learn/mean-stack-explained) stack).
+        I was solely responsible for the development, security and availability of the back-end of our platform. Further, I managed an outsourced team of front-end developers to implement
+        new projects according to business strategy and my written technical specification. Finally, I communicated with customers, providing tech support and managing system integration processes.
+        <br>*(MEAN stack, Redis, AWS)*
+    - role: Algorithm Development Engineer
+      time: 2020 - Present
+      company: Workofo, London (Remote)
       details: |
-        Undertaking various development projects (listed under **Projects** below) for clients and independently. Maintaining and updating complete projects.
+        Writing efficient algorithms for employee shift schedule optimisation. Domain modelling, architecture and design. Maintaining REST API and collaborating with the Web UI development team to
+        implement new user features.
+        <br>*(Java, Spring, GCP)*
 projects:
     title: Projects
     intro: >
@@ -93,10 +92,6 @@ projects:
       - title: Stock Market Prediction Using Deep Reinforcement Learning
         link: "https://i.imgur.com/6scAt1j.png"
         tagline: "(University Project) Built a deep reinforcement learning agent model that can trade stocks profitably. Nominated for the IBM Prize for Best Machine Learning Practical project 2019-20.<br>*(Python, Tensorflow)*"
-
-      - title: Workofo
-        link: "https://www.workofo.com/"
-        tagline: "Writing efficient algorithms for employee shift scheduling optimisation. Data modelling, architecture and design.<br>*(Java, Spring, Google Cloud)*"
 
       - title: Startline
         link: "https://www.startline.lt/"
@@ -139,10 +134,13 @@ skills:
       - name: Javascript & Node.js
         level: 98%
 
-      - name: Java/C#
+      - name: Java
         level: 98%
 
       - name: MongoDB
+        level: 98%
+
+      - name: SQL
         level: 98%
 
       - name: Python & Flask
@@ -151,19 +149,16 @@ skills:
       - name: Angular
         level: 95%
 
-      - name: SQL
-        level: 95%
-
       - name: React.js
         level: 90%
 
+      - name: Go
+        level: 75%
+
       - name: C++
-        level: 90%
+        level: 70%
 
       - name: .NET
-        level: 60%
-
-      - name: PHP
         level: 60%
 
       - name: React Native
