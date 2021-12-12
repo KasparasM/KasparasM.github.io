@@ -65,6 +65,13 @@ education:
       time: 2010 - 2014
 
 experiences:
+    - role: Algorithm Development Engineer
+      time: 2020 - Present
+      company: Workofo, London (Remote)
+      details: |
+        Writing efficient algorithms for employee shift schedule optimisation. Domain modelling, architecture and design. Maintaining REST API and collaborating with the Web UI development team to
+        implement new user features.
+        <br>*(Java, Spring, GCP)*
     - role: Lead Software Engineer
       time: 2015 - 2020
       company: Clouder, London (Remote)
@@ -73,13 +80,6 @@ experiences:
         I was solely responsible for the development, security and availability of the back-end of our platform. Further, I managed an outsourced team of front-end developers to implement
         new projects according to business strategy and my written technical specification. Finally, I communicated with customers, providing tech support and managing system integration processes.
         <br>*(MEAN stack, Redis, AWS)*
-    - role: Algorithm Development Engineer
-      time: 2020 - Present
-      company: Workofo, London (Remote)
-      details: |
-        Writing efficient algorithms for employee shift schedule optimisation. Domain modelling, architecture and design. Maintaining REST API and collaborating with the Web UI development team to
-        implement new user features.
-        <br>*(Java, Spring, GCP)*
 projects:
     title: Projects
     intro: >
