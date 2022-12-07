@@ -65,13 +65,21 @@ education:
       time: 2010 - 2014
 
 experiences:
+    - role: Senior Software Engineer
+      time: 2022 - Present
+      company: Cryptowatch, Kraken, San Francisco (Remote)
+      details: |
+        Developing a high throughput, low latency Trigger System for real-time crypto market notifications and automated trading.
+        Taking ownership of new features all the way from gathering requirements to delivery.
+        Emphasis on observability and scalability - the system's availability is critical and it needs to meet tremendous spikes in demand during turbulent market conditions.
+        <br>*(Go, Redis, PostgreSQL, AWS)
     - role: Algorithm Development Engineer
-      time: 2020 - Present
+      time: 2020 - 2022
       company: Workofo, London (Remote)
       details: |
         Writing efficient algorithms for employee shift schedule optimisation. Domain modelling, architecture and design. Maintaining REST API and collaborating with the Web UI development team to
         implement new user features.
-        <br>*(Java, Spring, GCP)*
+        <br>*(Java, Spring, MySQL, GCP)*
     - role: Lead Software Engineer
       time: 2015 - 2020
       company: Clouder, London (Remote)
@@ -131,10 +139,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript & Node.js
+      - name: Java
         level: 98%
 
-      - name: Java
+      - name: Go
+        level: 98%
+
+      - name: Javascript & Node.js
         level: 98%
 
       - name: MongoDB
@@ -146,26 +157,17 @@ skills:
       - name: Python & Flask
         level: 98%
 
-      - name: Angular
+      - name: React.js
         level: 95%
 
-      - name: React.js
+      - name: Angular
         level: 90%
 
-      - name: Go
-        level: 75%
-
       - name: C++
-        level: 70%
+        level: 75%
 
       - name: .NET
         level: 60%
-
-      - name: React Native
-        level: 50%
-
-      - name: Flutter
-        level: 50%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
