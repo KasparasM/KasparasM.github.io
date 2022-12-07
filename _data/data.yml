@@ -69,10 +69,10 @@ experiences:
       time: 2022 - Present
       company: Cryptowatch, Kraken, San Francisco (Remote)
       details: |
-        Developing a high throughput, low latency Trigger System for real-time crypto market notifications and automated trading.
+        Developing a high throughput, low latency Trigger System for real-time cryptocurrency market notifications and automated trading.
         Taking ownership of new features all the way from gathering requirements to delivery.
         Emphasis on observability and scalability - the system's availability is critical and it needs to meet tremendous spikes in demand during turbulent market conditions.
-        <br>*(Go, Redis, PostgreSQL, AWS)
+        <br>*(Go, Redis, PostgreSQL, AWS)*
     - role: Algorithm Development Engineer
       time: 2020 - 2022
       company: Workofo, London (Remote)
@@ -108,10 +108,6 @@ projects:
       - title: Asvela
         link: "https://shop.asvela.com/"
         tagline: "Web scraping and data modelling for car part specifications used for automated generation of product listing descriptions and car compatibility tables.<br>*(Java, Jaunt, SQL)*"
-
-      - title: Save the Bunnies
-        link: "save-the-bunnies"
-        tagline: "Infinite 2D Platformer Shooter game with progression system: new weapons, skills and wardrobe elements can be unlocked by saving bunnies.<br>*(Unity, C#)*"
 
 # publications:
 #     title: Publications
