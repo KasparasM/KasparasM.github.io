@@ -72,7 +72,7 @@ experiences:
         Developing a high throughput, low latency Trigger System for real-time cryptocurrency market notifications and automated trading.
         Taking ownership of new features all the way from gathering requirements to delivery.
         Emphasis on observability and scalability - the system's availability is critical and it needs to meet tremendous spikes in demand during turbulent market conditions.
-        <br>*(Go, Redis, PostgreSQL, AWS)*
+        <br>*(Go, gRPC, Redis, PostgreSQL, AWS)*
     - role: Algorithm Development Engineer
       time: 2020 - 2022
       company: Workofo, London (Remote)
@@ -87,7 +87,7 @@ experiences:
         Created a vaping marketplace, 1-hour delivery in London and subscription service (built with [**MEAN**](https://www.ibm.com/cloud/learn/mean-stack-explained) stack).
         I was solely responsible for the development, security and availability of the back-end of our platform. Further, I managed an outsourced team of front-end developers to implement
         new projects according to business strategy and my written technical specification. Finally, I communicated with customers, providing tech support and managing system integration processes.
-        <br>*(MEAN stack, Redis, AWS)*
+        <br>*(Node.js, Express, MongoDB, Redis, Angular, AWS)*
 projects:
     title: Projects
     intro: >
