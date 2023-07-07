@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kasparas Masiukas
-    tagline: Software Engineer
+    tagline: Senior Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -66,32 +66,39 @@ education:
 
 experiences:
     - role: Senior Software Engineer
-      time: 2022 - Present
-      company: Cryptowatch, Kraken, San Francisco (Remote)
+      time: 2023 - Present
+      company: Addepar, New York (Remote)
       details: |
-        Developing a high throughput, low latency Trigger System for real-time cryptocurrency market notifications and automated trading.
-        Taking ownership of new features all the way from gathering requirements to delivery.
-        Emphasis on observability and scalability - the system's availability is critical and it needs to meet tremendous spikes in demand during turbulent market conditions.
-        <br>*(Go, gRPC, Redis, PostgreSQL, AWS)*
+        Playing a pivotal role in the data architecture team, leading strategic initiatives to ensure seamless company expansion into Europe, focusing on scalability and GDPR-compliant data security measures.
+        Successfully developed and launched an internal tool for efficient management of feature flags, offering enhanced visibility and ownership, and automating the feature flags lifecycle, leading to a significant productivity boost.
+        <br>*(Java, Python, Aurora, Kafka, Kubernetes, AWS)*
+    - role: Senior Software Engineer
+      time: 2022 - 2023
+      company: Kraken, San Francisco (Remote)
+      details: |
+        Led the development of a high throughput, low latency Trigger System for real-time cryptocurrency market notifications and automated trading.
+        Owned the entire feature lifecycle, from requirement gathering to delivery.
+        Ensured optimal observability and scalability to maintain the system's availability under extreme market conditions and massive demand spikes.
+        <br>*(Go, gRPC, Redis, PostgreSQL, Kubernetes, AWS)*
     - role: Algorithm Development Engineer
       time: 2020 - 2022
       company: Workofo, London (Remote)
       details: |
-        Writing efficient algorithms for employee shift schedule optimisation. Domain modelling, architecture and design. Maintaining REST API and collaborating with the Web UI development team to
-        implement new user features.
+        Authored efficient algorithms for employee shift schedule optimization, contributing to domain modeling, architecture, and design.
+        Maintained a robust REST API, collaborating closely with the Web UI team for seamless user feature integration.
+        Through algorithmic improvements, substantially increased KPI performance for client businesses, thereby enhancing their operational efficiency.
         <br>*(Java, Spring, MySQL, GCP)*
     - role: Lead Software Engineer
       time: 2015 - 2020
       company: Clouder, London (Remote)
       details: |
-        Created a vaping marketplace, 1-hour delivery in London and subscription service (built with [**MEAN**](https://www.ibm.com/cloud/learn/mean-stack-explained) stack).
-        I was solely responsible for the development, security and availability of the back-end of our platform. Further, I managed an outsourced team of front-end developers to implement
-        new projects according to business strategy and my written technical specification. Finally, I communicated with customers, providing tech support and managing system integration processes.
+        Architected and launched a comprehensive e-commerce platform including a marketplace (think eBay), 1-hour delivery service in London (think Deliveroo), and a subscription model (think HelloFresh) - all tailored for vaping products.
+        Held exclusive accountability for the back-end development, while proficiently managing an outsourced team of front-end developers to ensure timely project execution.
         <br>*(Node.js, Express, MongoDB, Redis, Angular, AWS)*
 projects:
     title: Projects
     intro: >
-      The following list of projects includes paid self-employment work, as well as some noteworthy university or individual hobby projects (sorted from most to least recent):
+      The following list of projects includes freelancing work, as well as some noteworthy university projects (sorted from most to least recent):
     assignments:
       - title: Movie Search Engine
         link: "http://167.71.139.222"
