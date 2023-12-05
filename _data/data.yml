@@ -106,7 +106,7 @@ projects:
     assignments:
       - title: Startline
         link: "https://www.startline.lt/"
-        tagline: "Designed a complete software solution for managing car tuning services for a client's company. The solution includes: an Android app with multi-level authentication, appointment scheduling system with job specifics, reporting/accounting tools, appointment reminders via SMS to clients, SMS marketing tools, holiday management. Additionally, I designed a [self-booking page](http://register.startline.lt/) (Lithuanian) to display real availability and allow clients to self-register for an appointment.<br>*(Java, Android, [**MERN**](https://www.educative.io/edpresso/what-is-mern-stack) stack for back-end and self-booking page)*"
+        tagline: "Designed a complete software solution for managing car tuning services for a client's company. The solution includes: an Android app with multi-level authentication, appointment scheduling system with job specifics, reporting/accounting tools, appointment reminders via SMS to clients, SMS marketing tools, holiday management. Additionally, designed a [self-booking page](http://register.startline.lt/) (Lithuanian) to display real availability and allow clients to self-register for an appointment.<br>*(Java, Android, [**MERN**](https://www.educative.io/edpresso/what-is-mern-stack) stack for back-end and self-booking page)*"
 
       - title: Movie Search Engine
         link: "http://167.71.139.222"
