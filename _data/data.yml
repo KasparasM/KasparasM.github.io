@@ -47,10 +47,11 @@ sidebar:
 career-profile:
     title: Brief Profile
     summary: |
-      Programmed my first game at the age of 10. Been passionate about games and AI ever since.
-      Started competitive programming at high school in Lithuania and have won several medals in prestigious national competitions.
-      In 2014, I was a member of Lithuanian team in both [Baltic Olympiad in Informatics](http://www.boi2014.lmio.lt/) and [International Olympiad in Informatics](https://www.ioi2014.org/).
-      The hobby continued into my years at university, and I was a global finalist of [Bloomberg CodeCon 2016](https://codecon.bloomberg.com/). Since 2015, I have been freelancing/working remotely.
+      Developed my first game at age 10, igniting a lifelong passion for programming and AI.
+      Excelled in competitive programming (C++) during high school in Lithuania, securing several medals in prestigious national contests.
+      In 2014, I represented Lithuania in the [Baltic](http://www.boi2014.lmio.lt/) and [International](https://www.ioi2014.org/) Olympiads in Informatics.
+      This passion extended to university, culminating in becoming a global finalist at [Bloomberg CodeCon 2016](https://codecon.bloomberg.com/).
+      Since 2015, my journey has evolved into a professional career, freelancing and working remotely on diverse engineering projects.
 education:
     - degree: (MInf) Informatics
       university: University of Edinburgh
@@ -69,16 +70,19 @@ experiences:
       time: 2023 - Present
       company: Addepar, New York (Remote)
       details: |
-        Playing a pivotal role in the data architecture team, leading strategic initiatives to ensure seamless company expansion into Europe, focusing on scalability and GDPR-compliant data security measures.
-        Successfully developed and launched an internal tool for efficient management of feature flags, offering enhanced visibility and ownership, and automating the feature flags lifecycle, leading to a significant productivity boost.
+        First hire in Europe for the Investment Data Platform team, specializing in portfolio data ingestion and reconciliation.
+        Independently developed and successfully launched a critical internal tool for feature flag management, significantly boosting operational efficiency and reducing technical debt.
+        Managed and mentored a project transitioning to LaunchDarkly, guiding junior team members and sharing insights at internal conferences.
+        Actively involved in recruitment for European and Asian expansion, playing a key role in team growth and covering the EU timezone on call.
         <br>*(Java, Python, Aurora, Kafka, Kubernetes, AWS)*
-    - role: Senior Software Engineer
-      time: 2022 - 2023
+    - role: Software Engineer
+      time: 2022 - 2022
       company: Kraken, San Francisco (Remote)
       details: |
-        Led the development of a high throughput, low latency Trigger System for real-time cryptocurrency market notifications and automated trading.
-        Owned the entire feature lifecycle, from requirement gathering to delivery.
-        Ensured optimal observability and scalability to maintain the system's availability under extreme market conditions and massive demand spikes.
+        Led various initiatives in the development of the Cryptowatch Trigger System, focusing on both user-facing features and backend enhancements.
+        Developed repeatable triggers, webhook notifications, and shareable alerts, significantly expanding the system's capabilities.
+        Additionally, led backend improvements to enhance system stability and observability, including optimizing the data model, transitioning binary-serialized columns to JSON, and streamlining trigger log storage.
+        These efforts ensured robust system reliability under high-demand and volatile market conditions.
         <br>*(Go, gRPC, Redis, PostgreSQL, Kubernetes, AWS)*
     - role: Algorithm Development Engineer
       time: 2020 - 2022
@@ -100,6 +104,10 @@ projects:
     intro: >
       The following list of projects includes freelancing work, as well as some noteworthy university projects (sorted from most to least recent):
     assignments:
+      - title: Startline
+        link: "https://www.startline.lt/"
+        tagline: "Designed a complete software solution for managing car tuning services for a client's company. The solution includes: an Android app with multi-level authentication, appointment scheduling system with job specifics, reporting/accounting tools, appointment reminders via SMS to clients, SMS marketing tools, holiday management. Additionally, I designed a [self-booking page](http://register.startline.lt/) (Lithuanian) to display real availability and allow clients to self-register for an appointment.<br>*(Java, Android, [**MERN**](https://www.educative.io/edpresso/what-is-mern-stack) stack for back-end and self-booking page)*"
+
       - title: Movie Search Engine
         link: "http://167.71.139.222"
         tagline: "(University Project) A search engine that enables searching for movies by keywords or quotes. Won the Best Project Award for the Text Technologies for Data Science course 2019-20.<br>*(React, Flask, Scrapy, MongoDB)*"
@@ -108,12 +116,8 @@ projects:
         link: "https://i.imgur.com/6scAt1j.png"
         tagline: "(University Project) Built a deep reinforcement learning agent model that can trade stocks profitably. Nominated for the IBM Prize for Best Machine Learning Practical project 2019-20.<br>*(Python, Tensorflow)*"
 
-      - title: Startline
-        link: "https://www.startline.lt/"
-        tagline: "Designed a complete software solution for managing car tuning services for a client's company. The solution includes: an Android app with multi-level authentication, appointment scheduling system with job specifics, reporting/accounting tools, appointment reminders via SMS to clients, SMS marketing tools, holiday management. Additionally, I designed a [self-booking page](http://register.startline.lt/) (Lithuanian) to display real availability and allow clients to self-register for an appointment.<br>*(Java, Android, [**MERN**](https://www.educative.io/edpresso/what-is-mern-stack) stack for back-end and self-booking page)*"
-
       - title: Asvela
-        link: "https://shop.asvela.com/"
+        link: "https://asvela.lt/"
         tagline: "Web scraping and data modelling for car part specifications used for automated generation of product listing descriptions and car compatibility tables.<br>*(Java, Jaunt, SQL)*"
 
 # publications:
@@ -163,11 +167,11 @@ skills:
       - name: React.js
         level: 95%
 
-      - name: Angular
+      - name: C++
         level: 90%
 
-      - name: C++
-        level: 75%
+      - name: Angular
+        level: 90%
 
       - name: .NET
         level: 60%
