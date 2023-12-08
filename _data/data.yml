@@ -47,11 +47,9 @@ sidebar:
 career-profile:
     title: Brief Profile
     summary: |
-      Developed my first game at age 10, igniting a lifelong passion for programming and AI.
-      Excelled in competitive programming (C++) during high school in Lithuania, securing several medals in prestigious national contests.
-      In 2014, I represented Lithuania in the [Baltic](http://www.boi2014.lmio.lt/) and [International](https://www.ioi2014.org/) Olympiads in Informatics.
-      This passion extended to university, culminating in becoming a global finalist at [Bloomberg CodeCon 2016](https://codecon.bloomberg.com/).
-      Since 2015, my journey has evolved into a professional career, freelancing and working remotely on diverse engineering projects.
+      Senior Software Engineer, evolved from a strong background in competitive programming and AI, representing Lithuania in international contests.
+      With a proven track record in developing scalable solutions across e-commerce, finance, and cryptocurrency sectors, I am known for enhancing operational efficiency and driving technological innovation.
+      Committed to leading transformative projects and teams, pushing boundaries and setting new standards in software engineering.
 education:
     - degree: (MInf) Informatics
       university: University of Edinburgh
